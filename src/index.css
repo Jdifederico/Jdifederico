@@ -1,0 +1,341 @@
+
+.p-editor-container .p-editor-toolbar {
+    background: inherit !important;
+
+}
+.p-editor-container .p-editor-content .ql-editor {
+    background: inherit !important;
+}
+.mbsc-ios.mbsc-textfield-inner.mbsc-disabled {
+    opacity:1 !important;
+}
+
+.p-button-icon{
+    padding-left:1em !important;
+
+}
+.mbsc-event-calendar {
+    z-index: 1 !important; /* Lower the z-index of the Eventcalendar */
+}
+
+.p-menubar .p-submenu-list {
+
+    z-index: 1000; /* Ensure the Menubar dropdowns are on top */
+}
+
+.p-menu{
+    width: 100% !important;
+}
+.mbsc-row{
+    width:100%;
+}
+.p-button-icon-only {
+    height:2em;
+    justify-content: left !important;
+}
+.mbsc-ios.mbsc-input {
+    background: transparent !important;
+}
+.mbsc-ios.mbsc-input input {
+    background: transparent !important
+}
+.mbsc-mobiscroll .mbsc-lv-item {
+    padding:0 !important
+}
+.p-card .p-card-body {
+    padding: .25rem !important;
+}
+.mbsc-ios.mbsc-textfield-wrapper-box, .mbsc-ios.mbsc-textfield-wrapper-outline {
+    margin:0 !important;
+}
+.mbsc-control-w:hover {
+    /* add any styles you want to apply on hover */
+    background-color: #ddd;
+  }
+
+.signatureCanvas{
+    background-color:lightgrey;
+    border: 1px solid black;
+}
+.md-cancelled {
+    position: absolute;
+    top: 0px;
+    width:50em;
+    height:15em;
+    left: 180px;
+    z-index:999;
+    font-size: 5px;
+}
+   
+.for-load{
+    width:53.5% !important
+}
+.for-time-label{
+    width:64.2% !important
+}
+.for-freight-label{
+    width:55.5% !important
+}
+.for-freight-time-label{
+    width:115% !important
+}
+.for-load-order-label{
+    width:61% !important
+}
+.react-pdf__Page__canvas{
+    width:100% !important;
+    max-width: 595px !important;
+}
+.p-inputgroup-addon{
+    white-space: nowrap;
+    width:40% 
+}
+.p-checkbox-label{
+    width:600%;
+    height:2.25em;
+}
+.p-checkbox {
+    width:100% !important;
+    padding:.2em;
+    height:2.25em;
+ 
+}
+.p-inputnumber-input {
+    width: 100%;
+}
+.p-checkbox .p-checkbox-box {
+    height:100% !important;
+    width:2em !important;
+}
+.custom-item-class {
+    padding: 0px;
+    cursor: pointer;
+}
+
+.dispatch-inputgroup{
+    white-space: nowrap;
+    height:2em !important;
+    width:12em;
+    padding:1.1em  !important;
+}
+.dispatch-small-inputgroup{
+    white-space: nowrap;
+    width:60% !important;
+    height:2em !important;
+    padding:1.1em  !important;
+}
+
+
+.p-checkbox.p-component.p-disabled {
+    background-color: white; /* Replace with the color you want */
+}
+.p-checkbox .p-checkbox-input {
+    border:0;
+}
+.p-checkbox.p-disabled .p-checkbox-box {
+    z-index:1;
+    background-color: #0000001c; /* Replace with the color you want */
+}
+.p-checkbox.p-disabled.p-highlight .p-checkbox-box {
+    background-color: #6366f1; /* Replace with the color you want */
+}
+
+.p-checkbox .p-checkbox-input:disabled {
+    background: inherit !important;
+    background-color: inherit!important; /* Your grey background */
+
+}
+
+.p-checkbox .p-checkbox-input:disabled  .p-checkbox-icon {
+    color:black;
+}
+.p-checkbox .p-checkbox-box:disabled  .p-checkbox-icon {
+
+    color: #000 !important; /* Set the color of the checkmark to black or another contrasting color */
+    opacity: 1 !important; /* Ensure the checkmark is fully opaque */
+}
+
+
+.p-tabview .p-tabview-nav li .p-tabview-nav-link {
+    padding:.75em;
+}
+.weight-material{
+    white-space: nowrap;
+    width:65% !important;
+}
+.ql-container {
+    height: inherit !important;
+}
+.p-inputgroup .p-inputtext, .p-fluid .p-inputgroup .p-inputtext, .p-inputgroup .p-inputwrapper, .p-fluid .p-inputgroup .p-input {
+    flex: 1 1 auto;
+   
+}
+
+.mbsc-windows.mbsc-textfield-wrapper {
+    margin:0 !important;
+    width:60% !important;
+}
+.mbsc-textfield-inner {
+display: initial !important;
+}
+.mbsc-ios.mbsc-textarea {
+
+    height: inherit !important;
+}
+textarea:disabled{
+    font-weight:bold;
+    opacity: 0.8 !important;
+}
+
+.p-steps-item {
+    background: transparent !important;
+}
+.p-disabled, .p-component:disabled {
+    background:#0000001c;
+    opacity:1 !important;
+}
+input:disabled {
+    font-weight:bold;
+    background:#e3e3e3;
+    opacity:1;
+}
+
+
+.p-dialog .p-dialog-content {
+    padding:0 !important;
+}
+  .disabledLabel{
+
+    background:#0000001c !important;
+    opacity:1 !important;
+}
+.mbsc-ios.mbsc-label.mbsc-disabled {
+    opacity:1 !important;
+}
+.mbsc-ios.mbsc-input input:disabled{
+    opacity:.8 !important;
+}
+
+.p-overlaypanel .p-overlaypanel-content {
+    padding:0 !important;
+}
+.mbsc-col-1, .mbsc-col-2, .mbsc-col-3, .mbsc-col-4, .mbsc-col-5, .mbsc-col-6, .mbsc-col-7, .mbsc-col-8, .mbsc-col-9, .mbsc-col-10, .mbsc-col-11, .mbsc-col-12, .mbsc-col, .mbsc-col-auto, .mbsc-col-sm-1, .mbsc-col-sm-2, .mbsc-col-sm-3, .mbsc-col-sm-4, .mbsc-col-sm-5, .mbsc-col-sm-6, .mbsc-col-sm-7, .mbsc-col-sm-8, .mbsc-col-sm-9, .mbsc-col-sm-10, .mbsc-col-sm-11, .mbsc-col-sm-12, .mbsc-col-sm, .mbsc-col-sm-auto, .mbsc-col-md-1, .mbsc-col-md-2, .mbsc-col-md-3, .mbsc-col-md-4, .mbsc-col-md-5, .mbsc-col-md-6, .mbsc-col-md-7, .mbsc-col-md-8, .mbsc-col-md-9, .mbsc-col-md-10, .mbsc-col-md-11, .mbsc-col-md-12, .mbsc-col-md, .mbsc-col-md-auto, .mbsc-col-lg-1, .mbsc-col-lg-2, .mbsc-col-lg-3, .mbsc-col-lg-4, .mbsc-col-lg-5, .mbsc-col-lg-6, .mbsc-col-lg-7, .mbsc-col-lg-8, .mbsc-col-lg-9, .mbsc-col-lg-10, .mbsc-col-lg-11, .mbsc-col-lg-12, .mbsc-col-lg, .mbsc-col-lg-auto, .mbsc-col-xl-1, .mbsc-col-xl-2, .mbsc-col-xl-3, .mbsc-col-xl-4, .mbsc-col-xl-5, .mbsc-col-xl-6, .mbsc-col-xl-7, .mbsc-col-xl-8, .mbsc-col-xl-9, .mbsc-col-xl-10, .mbsc-col-xl-11, .mbsc-col-xl-12, .mbsc-col-xl, .mbsc-col-xl-auto {
+padding-left:.1em ;
+padding-right:.1em ;
+}
+
+.tableList{
+   padding:0;
+    list-style-type: none;
+    margin:0 !important;
+    padding-left:.25em
+}
+.listItem {
+    padding:.25em;
+    border-top: 1px solid #ccc;
+}
+.listItem:hover{
+    
+    background-color: #ebebeb;
+}
+.p-panel .p-panel-content {
+    padding:0 !important;
+}
+
+.p-tabview .p-tabview-nav {
+    margin:0 !important;
+}
+.p-tabview .p-tabview-panels {
+    padding:0 !important;
+}
+
+.md-btn{
+    background: #3f729b;
+    height:1.5em !important;
+    color: #eee !important;
+
+    padding-top: 0.05em !important;
+    padding-right: 0.5em !important;
+    padding-bottom: 0.05em !important;
+    padding-left: 0.25em !important;
+    border: 0 !important;
+    border-radius: .25em !important;
+    margin: .25em .25em !important;
+}
+.md-btn:hover, .md-btn:focus {
+    outline: none !important;
+ 
+   box-shadow: 0 0 10px #719ECE;
+   transition-duration: 0;
+}
+
+.mbsc-ic.icon {
+    font-family: inherit;
+    font-weight: normal;
+}
+.mbsc-ic.icon:before {
+    font-family:'Font Awesome\ 5 Free', 'Font Awesome\ 5 Brands', 'Font Awesome 5 Pro';
+}   
+.mbsc-ic.icon.fas:before,
+.mbsc-ic.icon.fa:before {
+    font-weight: 900;
+}
+    
+.p-datatable .p-datatable-tbody > tr > td {
+    padding: .1rem .1rem;
+    border-top-width: 0px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+  
+
+}
+.p-datatable .p-datatable-thead > tr > th {
+    padding:0;
+}
+.p-inputtext {
+    padding: .5rem .5rem;
+}
+th {
+    border-spacing:0 !important;
+    border: 1px solid #dee2e6;
+}
+
+.tableInput {
+    background-color:"white";
+    padding:.5em !important;
+    width: 100%;
+   
+}
+
+.mytooltip {
+    position: relative;
+    
+}
+
+.mytooltip::after {
+    background-color: #8b8b8b;
+    border-radius: 10px;
+    color: #efeef1;
+    display: none;
+    padding: 5px 10px;
+    position: absolute;
+    text-align: center;
+    z-index: 999;
+}
+
+
+
+.mytooltip:hover::after {
+    display: inline;
+}
+
+
+.mytooltip::after {
+    content: attr(tooltip);
+    top: 0;
+    right: 0;
+    transform: translateX(0%) translateY(-10px);
+    font-size: .75em
+}
+

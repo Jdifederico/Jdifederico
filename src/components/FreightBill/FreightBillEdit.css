@@ -1,0 +1,22 @@
+.p-tabview .p-tabview-nav li .p-tabview-nav-link {
+    padding-right:10em;
+    padding-left:10em;
+    padding-bottom:1em;
+    padding-top:1em;
+  
+  
+    border-width:2px;
+    }
+    
+    .p-tabview .p-tabview-nav {
+        width:100%;
+    }
+
+    .p-tabview .p-tabview-nav li {
+        width: 100%;
+    }
+    .p-tabview-title {
+        margin-right:auto;
+        margin-left:auto;
+        max-width: fit-content;
+    }
